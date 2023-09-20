@@ -1,0 +1,12 @@
+C:\Users\steph\OneDrive\Desktop\c sharp\CRUD operations\CRUD operations\bin\Debug\CRUD operations.exe.config
+C:\Users\steph\OneDrive\Desktop\c sharp\CRUD operations\CRUD operations\bin\Debug\CRUD operations.exe
+C:\Users\steph\OneDrive\Desktop\c sharp\CRUD operations\CRUD operations\bin\Debug\CRUD operations.pdb
+C:\Users\steph\OneDrive\Desktop\c sharp\CRUD operations\CRUD operations\obj\Debug\CRUD operations.csproj.AssemblyReference.cache
+C:\Users\steph\OneDrive\Desktop\c sharp\CRUD operations\CRUD operations\obj\Debug\CRUD_operations.UsersInfo.resources
+C:\Users\steph\OneDrive\Desktop\c sharp\CRUD operations\CRUD operations\obj\Debug\CRUD_operations.Properties.Resources.resources
+C:\Users\steph\OneDrive\Desktop\c sharp\CRUD operations\CRUD operations\obj\Debug\CRUD operations.csproj.GenerateResource.cache
+C:\Users\steph\OneDrive\Desktop\c sharp\CRUD operations\CRUD operations\obj\Debug\CRUD operations.csproj.CoreCompileInputs.cache
+C:\Users\steph\OneDrive\Desktop\c sharp\CRUD operations\CRUD operations\obj\Debug\CRUD operations.exe
+C:\Users\steph\OneDrive\Desktop\c sharp\CRUD operations\CRUD operations\obj\Debug\CRUD operations.pdb
+C:\Users\steph\OneDrive\Desktop\c sharp\CRUD operations\CRUD operations\obj\Debug\CRUD_operations.Login.resources
+C:\Users\steph\OneDrive\Desktop\c sharp\CRUD operations\CRUD operations\obj\Debug\CRUD_operations.SignIn.resources
